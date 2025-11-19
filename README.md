@@ -87,7 +87,7 @@ python xd_test.py
 
 ## 📊 Results
 
-| Method | UCF-Crime (AUC) | XD-Violence (AP) |
+| Method | UCF-Crime (AUC/%) | XD-Violence (AP/%) |
 | :--- | :---: | :---: |
 | **DSANet (Ours)** | **89.44** | **86.95** |
 
